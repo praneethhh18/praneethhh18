@@ -20,7 +20,7 @@
 - 🛠 Skilled in **Python, Django, APIs, GKE, React, Cloud**  
 - 🌾 Creator of **Farmers Disease Diagnostic Portal** for agriculture tech  
 - 🎯 Working on: **CarbonAi – AI-powered Carbon Dating Platform**  
-- ⚡ Fun fact: I love **photography, gaming & building impactful tools**
+- ⚡ My fact: I love **building impactful tools, Doing Research & Gaminig**
 
 ---
 
