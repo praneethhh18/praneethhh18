@@ -17,10 +17,10 @@
 ## 🌟 About Me
 
 - 🌱 Currently exploring **Generative AI, Machine Learning & Cybersecurity**  
-- 🛠 Skilled in **Python, Django, APIs, GKE, React, Cloud**  
+- 🛠 Skilled in **Python, AI/ML, APIs, NLP, React, Cloud**  
 - 🌾 Creator of **Farmers Disease Diagnostic Portal** for agriculture tech  
 - 🎯 Working on: **CarbonAi – AI-powered Carbon Dating Platform**  
-- ⚡ My fact: I love **building impactful tools, Doing Research & Gaminig**
+- ⚡ My fact: I love **building impactful tools, Doing Research & Gaming**
 
 ---
 
