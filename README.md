@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hey, I'm Praneeth 👋</h1>
+<h1 align="center">Hey, I'm Praneeth P K 👋</h1>
 <h3 align="center">AI & ML Engineer | Builder of Smart Solutions | Hackathon Enthusiast</h3>
 
 <!-- Banner -->
