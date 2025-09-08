@@ -1,0 +1,38 @@
+{
+  "agent_name": "Praneeth's AI Assistant",
+  "version": "1.0.0",
+  "expertise_areas": [
+    "AI/ML",
+    "Agriculture", 
+    "Research",
+    "Programming",
+    "Data Science",
+    "Web Development"
+  ],
+  "agriculture_knowledge": true,
+  "research_mode": true,
+  "conversation_memory": 10,
+  "features": {
+    "agriculture_guidance": true,
+    "programming_help": true,
+    "research_assistance": true,
+    "conversation_history": true,
+    "interactive_mode": true
+  },
+  "supported_languages": [
+    "Python",
+    "JavaScript", 
+    "TypeScript",
+    "Java",
+    "Dart",
+    "Kotlin"
+  ],
+  "ai_frameworks": [
+    "TensorFlow",
+    "PyTorch", 
+    "Pandas",
+    "NumPy",
+    "Scikit-learn",
+    "OpenCV"
+  ]
+}
