@@ -19,7 +19,7 @@
 - 🌱 Currently exploring **Generative AI, Machine Learning & Cybersecurity**  
 - 🛠 Skilled in **Python, AI/ML, APIs, NLP, React, Cloud**  
 - 🌾 Creator of **Farmers Disease Diagnostic Portal** for agriculture tech  
-- 🎯 Working on: **CarbonAi – AI-powered Carbon Dating Platform**  
+- 🎯 Working on: **Various Projects with Original Ideas**  
 - ⚡ My fact: I love **building impactful tools, Doing Research & Gaming**
 
 ---
@@ -77,7 +77,7 @@
 
 ## 🚧 Currently Building
 
-- **CarbonAi** → AI-based carbon dating analysis  
+- **Ai Powerd Traffic Management System** → AI-based Traffic Management  
 - **Farmers Disease Diagnostic Portal** → Helping farmers identify crop diseases  
 - **Voice Cloning App** → Realistic voice replication using RVC models  
 
