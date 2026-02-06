@@ -12,18 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Hackathon+Innovator;Generative+AI+Explorer;Research+And+Learner;Turning+Ideas+into+Impact" alt="Typing SVG" />
 </p>
 
----
-
-## 🌟 About Me
-
-- 🌱 Currently exploring **Generative AI, Machine Learning & Cybersecurity**  
-- 🛠 Skilled in **Python, AI/ML, APIs, NLP, React, Cloud**  
-- 🌾 Creator of **Farmers Disease Diagnostic Portal** for agriculture tech  
-- 🎯 Working on: **Various Projects with Original Ideas**  
-- ⚡ My fact: I love **building impactful tools, Doing Research & Gaming**
-
----
-
 ## 🛠 Tech Stack
 
 #### **Programming Languages**
