@@ -61,15 +61,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=praneethhh18&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-## 🚧 Currently Building
-
-- **Ai Powerd Traffic Management System** → AI-based Traffic Management  
-- **Farmers Disease Diagnostic Portal** → Helping farmers identify crop diseases  
-- **Voice Cloning App** → Realistic voice replication using RVC models  
-
----
 
 ## 💬 Dynamic Inspiration
 
